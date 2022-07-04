@@ -6,7 +6,7 @@ body {
 
 a {
   text-decoration: none;
-  color: yellow; 
+  color: #FF69B4;
 }
 
 .folder {
@@ -23,4 +23,13 @@ a {
   width: 450px;
   background-color: black;
   color: white;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: black;
+  text-align: center;
 }
